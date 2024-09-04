@@ -1,0 +1,17 @@
+
+[ERROR] 2024-08-22 23:41:35.359 [main] LoggerLoad - Error Message :Select required!
+[INFO ] 2024-08-22 23:41:36.884 [main] LoggerLoad - Success: You have added iPhone to your shopping cart!
+×
+[INFO ] 2024-08-22 23:41:38.358 [main] LoggerLoad - Eco taAX(-2.00): 4.71€
+[INFO ] 2024-08-22 23:41:38.391 [main] LoggerLoad - VAT(20%): 47.55€
+[ERROR] 2024-08-22 23:41:39.063 [main] LoggerLoad - Products marked with *** are not available in the desired quantity or not in stock!
+×
+[INFO ] 2024-08-22 23:41:41.361 [main] LoggerLoad - Success: You have added HP LP3065 to your shopping cart!
+×
+[ERROR] 2024-08-22 23:41:42.288 [main] LoggerLoad - Warning: Coupon is either invalid, expired or reached its usage limit!
+×
+[ERROR] 2024-08-22 23:41:43.340 [main] LoggerLoad - Warning: Gift Certificate is either invalid or the balance has been used up!
+×
+[ERROR] 2024-08-22 23:41:49.038 [main] LoggerLoad - Warning: You must agree to the Terms & Conditions!
+×
+[INFO ] 2024-08-22 23:41:50.550 [main] LoggerLoad - Your order has been successfully processed!
